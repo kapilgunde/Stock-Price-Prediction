@@ -1,4 +1,5 @@
 # Stock-Price-Prediction
+![visualization](banner.jpg)
 
 
 ## Description 
