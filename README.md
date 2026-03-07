@@ -61,6 +61,12 @@ This project aims to predict stock prices using machine learning techniques. It 
 * Financial data prediction
 * Statistical modeling and evaluation
 
+## Project Result
+![prediction Graph]
+(ActualVsPredicted Regression.png)
+
+
+
 
 
 
