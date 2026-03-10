@@ -24,14 +24,14 @@ This project aims to predict stock prices using machine learning techniques. It 
 ## Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kapilgunde.stats/Stock-Price-Prediction.git
+   git clone https://github.com/kapilgunde/Stock-Price-Prediction.git
 2. Project Directory:
-           cd Stock-Price-Prediction
+3.            cd Stock-Price-Prediction
 
-3. Install required libraries:
+5. Install required libraries:
            pip install -r requirements.txt
 
-4. Run the project:
+6. Run the project:
            python stock_prediction.py  
 
        
@@ -56,8 +56,7 @@ This project aims to predict stock prices using machine learning techniques. It 
 
 ## Learning OutCome
 
-* Learning Outcomes
-* Through this project, I gained practical experience in:
+ Through this project, I gained practical experience in:
 * Data preprocessing and analysis
 * Machine learning model implementation
 * Financial data prediction
